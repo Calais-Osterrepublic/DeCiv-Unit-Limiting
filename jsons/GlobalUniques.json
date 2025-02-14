@@ -33,7 +33,7 @@
 			"[{Helicopter} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
 			"[{Siege} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
 			"[{Water} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
-			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
+			"[{Air} {non-[Missile]} {non-[Nuclear Weapon]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
 			"[Promotion Nullifier] units gain the [Nullifier Support] promotion",
 			"[Nuclear Weapon] units gain the [Nuclear Support] promotion",
 			"[{Military} {non-[Promotion Nullifier]}] units gain the [Rally Around the Flag] promotion"
