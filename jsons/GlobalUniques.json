@@ -10,8 +10,8 @@
 			"Provides [5] [Military Support] <when below [0] [Military Support]> <when not at war>",
 			"Provides [5] [Military Support] <when below [100] [Military Support]> <when not at war> <after adopting [Constitution]>",
 			
-			"Provides [10] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
-			"Provides [20] [Military Support] <when below [500] [Military Support]> <for [Barbarians]>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <for [City-states] Civilizations>",
+			"Provides [20] [Military Support] <when below [500] [Military Support]> <for [Barbarians] Civilizations>",
 
 			"[-10]% Strength <when below [0] [Military Support]>",
 			"[-10]% Strength <when below [-1] [Military Support]>",
