@@ -9,7 +9,7 @@
 			"Provides [10] [Military Support] <when below [20] [Military Support]> <when at war> <after adopting [Sovereignty]>",
 			"Provides [5] [Military Support] <when below [200] [Military Support]> <when not at war> <when above [0] Happiness> <after adopting [Constitution]>",
 			"Provides [10] [Military Support] <when below [100] [Military Support]> <for [City-states] Civilizations>",
-			"Provides [20] [Military Support] <when below [500] [Military Support]> <for [Barbarians] Civilizations>",
+			"Provides [100] [Military Support] <when below [500] [Military Support]> <for [Barbarians] Civilizations>",
 
 			"[-10]% Strength <when below [0] [Military Support]>",
 			"[-10]% Strength <when below [-1] [Military Support]>",
